@@ -1,0 +1,215 @@
+{"activity_log" : [{"1":[
+  {
+    "context": "time",
+    "timeWindow": "20160303_249",
+    "longTime": "1457066435",
+    "time_band": "5",
+    "week": 0
+  },
+  {
+    "context": "activity",
+    "activityType": "{standing still=4}",
+    "activityLevel": "0.0"
+  },
+  {
+    "context": "location",
+    "latitude": "33.6678688",
+    "longitude": "-117.8261056",
+    "venueName": "[Pink Smile Child Care, Park West, Rancho San Joaquin Golf Course]",
+    "venueType": "[[1013, 34], [1013, 34], [1013, 34]]"
+  },
+  {
+    "context": "media",
+    "playtime": "0"
+  },
+  {
+    "context": "application",
+    "app_count": 1,
+    "app_name": "[com.google.android.googlequicksearchbox]",
+    "app_duration": "[254]"
+  },
+  {
+    "context": "soundSetting",
+    "sound": "VIBRATE"
+  },
+  {
+    "context": "photo",
+    "photo_count": "0"
+  },
+  {
+    "context": "phoneStatus",
+    "phone_oncount": "1",
+    "phone_offcount": "2"
+  },
+  {
+    "context": "light",
+    "lightValue": "6.7631578947368425"
+  },
+  {
+    "context": "step",
+    "stepCount": "0"
+  },
+  {
+    "context": "calendar",
+    "event": "[Maharishi Dayanand Saraswati Jayanti, Maharishi Dayanand Saraswati Jayanti]",
+    "location": "[, ]"
+  },
+  {
+    "context": "transition",
+    "change": "false"
+  },
+  {
+    "context": "call",
+    "callType": "[]",
+    "callContactExist": "[]",
+    "callStartTime": "[]",
+    "callEndTime": "[]",
+    "callCount": 0
+  },
+  {
+    
+  }
+],
+"2":[
+  {
+    "context": "time",
+    "timeWindow": "20160303_249",
+    "longTime": "1457066435",
+    "time_band": "5",
+    "week": 0
+  },
+  {
+    "context": "activity",
+    "activityType": "{standing still=4}",
+    "activityLevel": "0.0"
+  },
+  {
+    "context": "location",
+    "latitude": "33.6678688",
+    "longitude": "-117.8261056",
+    "venueName": "[Pink Smile Child Care, Park West, Rancho San Joaquin Golf Course]",
+    "venueType": "[[1013, 34], [1013, 34], [1013, 34]]"
+  },
+  {
+    "context": "media",
+    "playtime": "0"
+  },
+  {
+    "context": "application",
+    "app_count": 1,
+    "app_name": "[com.google.android.googlequicksearchbox]",
+    "app_duration": "[254]"
+  },
+  {
+    "context": "soundSetting",
+    "sound": "VIBRATE"
+  },
+  {
+    "context": "photo",
+    "photo_count": "0"
+  },
+  {
+    "context": "phoneStatus",
+    "phone_oncount": "1",
+    "phone_offcount": "2"
+  },
+  {
+    "context": "light",
+    "lightValue": "6.7631578947368425"
+  },
+  {
+    "context": "step",
+    "stepCount": "0"
+  },
+  {
+    "context": "calendar",
+    "event": "[Maharishi Dayanand Saraswati Jayanti, Maharishi Dayanand Saraswati Jayanti]",
+    "location": "[, ]"
+  },
+  {
+    "context": "transition",
+    "change": "false"
+  },
+  {
+    "context": "call",
+    "callType": "[]",
+    "callContactExist": "[]",
+    "callStartTime": "[]",
+    "callEndTime": "[]",
+    "callCount": 0
+  },
+  {
+    
+  }],
+"3":[
+  {
+    "context": "time",
+    "timeWindow": "20160303_249",
+    "longTime": "1457066435",
+    "time_band": "5",
+    "week": 0
+  },
+  {
+    "context": "activity",
+    "activityType": "{running=4}",
+    "activityLevel": "0.0"
+  },
+  {
+    "context": "location",
+    "latitude": "33.6678688",
+    "longitude": "-117.8261056",
+    "venueName": "[Pink Smile Child Care, Park West, Rancho San Joaquin Golf Course]",
+    "venueType": "[[1013, 34], [1013, 34], [1013, 34]]"
+  },
+  {
+    "context": "media",
+    "playtime": "0"
+  },
+  {
+    "context": "application",
+    "app_count": 1,
+    "app_name": "[com.google.android.googlequicksearchbox]",
+    "app_duration": "[254]"
+  },
+  {
+    "context": "soundSetting",
+    "sound": "VIBRATE"
+  },
+  {
+    "context": "photo",
+    "photo_count": "0"
+  },
+  {
+    "context": "phoneStatus",
+    "phone_oncount": "1",
+    "phone_offcount": "2"
+  },
+  {
+    "context": "light",
+    "lightValue": "6.7631578947368425"
+  },
+  {
+    "context": "step",
+    "stepCount": "0"
+  },
+  {
+    "context": "calendar",
+    "event": "[Maharishi Dayanand Saraswati Jayanti, Maharishi Dayanand Saraswati Jayanti]",
+    "location": "[, ]"
+  },
+  {
+    "context": "transition",
+    "change": "false"
+  },
+  {
+    "context": "call",
+    "callType": "[]",
+    "callContactExist": "[]",
+    "callStartTime": "[]",
+    "callEndTime": "[]",
+    "callCount": 0
+  },
+  {
+    
+  }]  
+}]}

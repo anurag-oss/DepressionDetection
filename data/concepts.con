@@ -1,0 +1,7 @@
+# sample input file for colibri;
+# colibri -dot example.bri
+
+sleeping: home still night;
+working: still home morning;
+eating:	still home office afternoon;
+studying: still education afternoon;
